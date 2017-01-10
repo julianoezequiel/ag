@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\loteria-computacional\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2265644474.index
+2813023069.index
+929248867.index
+4223796756.index
+1442880885.index
+3826095359.index
